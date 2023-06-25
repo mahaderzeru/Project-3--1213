@@ -1,0 +1,18 @@
+*****************
+End of Day Report
+# of hamburger orders: 4
+# of cheese burger orders: 4
+# of veggie burger orders: 4
+# of soda orders: 4
+
+Completed orders: 
+
+Incomplete orders: 
+
+	Order #1: 
+	3 hamburgers, 15 cheeseburgers, 4 veggieburgers, 10 sodas, dine in
+
+	Order #3: 
+	1 hamburgers, 1 cheeseburgers, 1 veggieburgers, 2 sodas, dine in
+
+
